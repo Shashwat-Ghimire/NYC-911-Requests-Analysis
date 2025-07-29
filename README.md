@@ -3,7 +3,7 @@ NYC 911 Requests Analysis
 
 🌟 Project Summary
 This project involves an exploratory data analysis (EDA) of the NYC 911 Service Requests dataset, comprising over 300,000 entries and 53 attributes. The dataset captures details of public service requests reported to various city agencies, including location, request type, timestamps, and resolution status.
-The analysis was performed using Python in Jupyter Lab, employing data cleaning, exploratory analysis, and visualization techniques to uncover key insights into city operations and request patterns.
+The analysis was performed using Python in Jupyter Notebook, employing data cleaning, exploratory analysis, and visualization techniques to uncover key insights into city operations and request patterns.
 
 🎯 Goals  
 
